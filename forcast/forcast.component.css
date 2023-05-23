@@ -1,0 +1,57 @@
+.inputs{
+
+    max-width: 700px;
+
+    border: 1px solid black;
+
+    border-radius: 7px;
+
+    margin: auto;
+
+    text-align: center;
+
+    margin-bottom: 30px;
+
+    background-color: #000;
+
+    color: #1b1313;
+
+ }
+
+ .display{
+
+    max-width: 700px;
+
+    border: 1px solid #dd6868;
+
+    border-radius: 7px;
+
+    margin: auto;
+
+    text-align: center;
+
+   
+
+    background-color: #f19d4f;
+
+ }
+
+ .header{
+
+    max-width: 700px;
+
+    border: 1px solid rgb(204, 195, 195);
+
+    border-radius: 7px;
+
+    margin: auto;
+
+    text-align: center;
+
+    margin-bottom: 30px;
+
+    background-color: #f50909;
+
+    color: #fff;
+
+ }
